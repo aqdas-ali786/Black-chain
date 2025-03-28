@@ -40,7 +40,7 @@
 				"name": "stage",
 				"outputs": [
 					{
-						"internalType": "enum BallotV2.Stage",
+						"internalType": "enum BallotV3.Stage",
 						"name": "",
 						"type": "uint8"
 					}
@@ -88,7 +88,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/BallotV3.sol": "BallotV2"
+			"contracts/BallotV3.sol": "BallotV3"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -103,11 +103,11 @@
 	},
 	"sources": {
 		"contracts/BallotV3.sol": {
-			"keccak256": "0x1a3250ae8b1a13636d827641169092c70984493f7d8f6dddc9b5446ee9734383",
+			"keccak256": "0xb097e878195c8b6281fa10dfbd7dcd8e0b8df8bc76f801d28ea94ee447c73dbf",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://7d5b2e0b85cbde7ced3377122a05a112a985f3f815aa874be62ec587ff22c9ba",
-				"dweb:/ipfs/QmTTfH7bF85QbYkSjZ2hpU8iAPLPgk1UB2KEodLKTdZSZm"
+				"bzz-raw://57d34f1c5cbc3f7bc9704d2dea13ecac087659d8785c99d8e5e58640c9168aa6",
+				"dweb:/ipfs/QmbYPKmxyPdF56Egish998S6wqfQ9VStvRuMnmsz4T6hQo"
 			]
 		}
 	},
